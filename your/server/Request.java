@@ -1,4 +1,4 @@
-// TODO: change paackage name to match yours
+// TODO: change package name to match yours
 package your.server;
 
 import java.io.Serializable;
